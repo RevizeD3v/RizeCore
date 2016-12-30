@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/de/bungeecord/rizegames/RizeGames.java=UTF-8
+encoding//src/de/bungeecord/rizegames/commands/TeamCMD.java=UTF-8
+encoding//src/de/bungeecord/rizegames/listener/LoginListener.java=UTF-8
+encoding//src/de/bungeecord/rizegames/listener/ServerPingListener.java=UTF-8

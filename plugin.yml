@@ -1,0 +1,8 @@
+name: BungeeCore
+version: 1.0
+author: RevizeD3v
+main: de.bungeecord.rizegames.RizeGames
+
+commands:
+     wartung:
+     hilfe:
